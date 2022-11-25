@@ -1,0 +1,45 @@
+footer {
+    width: 100%;
+    background-color: $primary;
+    font-weight: bold;
+    margin-top: 2rem;
+    border: rgb(202, 194, 186);
+}
+
+footer p {
+    text-align: center;
+    background-color:$secondary;
+    color: rgb(88, 87, 81);
+    margin: 0%;
+    padding: 2%;
+}
+.img_footer{
+    width: 25px;
+        height: 25px;
+        align-items: center;
+}
+
+@media (min-width:992px) {
+
+footer {
+    width: 100%;
+    background-color: $primary;
+    font-weight: bold;
+    margin-top: 2rem;
+    border: rgb(202, 194, 186);
+}
+
+footer p {
+    text-align: center;
+    background-color:$secondary;
+    color: rgb(88, 87, 81);
+    margin: 0%;
+    padding: 2%;
+}
+
+.img_footer{
+    width: 25px;
+        height: 25px;
+
+}
+}

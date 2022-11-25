@@ -1,0 +1,71 @@
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+body {
+    background-color: rgb(175, 210, 216);
+    font-family: "montseerat", sans-serif;
+}
+
+main {
+    background-image: url(../assets/img/men-sports-bicycle-sky-motorcycle-vehicle-111929-wallhere.com.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    padding: 11%;
+}
+
+img {
+    width: 200px;
+    height: 700px;
+    border-radius: 15px;
+    justify-content: flex-end;
+}
+
+.fotoin {
+    width: 223px;
+    height: 242px;
+    border-radius: 15px;
+    justify-content: flex-end;
+}
+
+.card-img-top {
+    height: 200px;
+    justify-content: flex-end;
+}
+
+.artoculocontenido p {
+    text-align: none;
+    margin: 2%;
+    padding: 2%;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.articulo {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.articulocontenido {
+
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 3rem;
+    background-color: rgba(7, 125, 204, 0.438);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

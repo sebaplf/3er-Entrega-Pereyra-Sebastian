@@ -3,17 +3,18 @@
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    font-size: 15px;
-    align-items: center;
-    justify-items: center;
+    font-size: 19px;
+    padding-left: 1rem
 }
+
+
 
 .barranav__items {
     display: inline-block;
 }
 
 .linknav {
-    color: $primary;
+    color: $primera;
     display: inline-block;
 
 }
@@ -28,7 +29,7 @@
 }
 
 .submenu__items a {
-    color: rgb(12, 5, 1);
+    color: $primera;
 }
 
 .barranav__items:hover ul {

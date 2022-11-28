@@ -1,6 +1,5 @@
 .grid-container {
     width: 100%;
-    
     display: grid;
 
 }
@@ -34,5 +33,9 @@
     100% {
         opacity: 1;
     }
+}
+
+.card-body{
+    color: $primera;
 }
 

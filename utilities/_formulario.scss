@@ -8,6 +8,12 @@
     padding-left: 0%;
 }
 
+@media (min-width: 992px){
+.form_contact {
+    padding-left: 40%;
+}
+}
+
 form {
     text-align: center;
     width: 300px;
